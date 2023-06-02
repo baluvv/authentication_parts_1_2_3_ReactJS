@@ -1,0 +1,10 @@
+.product-sections {
+  display: flex;
+  min-height: 70vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 90%;
+  max-width: 1110px;
+}
